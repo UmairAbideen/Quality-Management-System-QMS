@@ -99,3 +99,16 @@ Director Approval
 
 Complaint Closed
 
+
+
+User Roles
+
+
+## User Roles
+
+| Role | Responsibilities |
+|------|------------------|
+| Admin / QA | Complete system administration |
+| Director | Final approvals |
+| Manager | Department approvals |
+| Office | Data entry & submissions |
