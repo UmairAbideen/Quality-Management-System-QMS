@@ -160,7 +160,6 @@ User Roles
 -  Production Deployment
 
 
-## Add Architecture
 
 ## 🏗️ System Architecture
 
@@ -207,6 +206,7 @@ User Roles
                                         │  DOMPDF (PDF Generation)                │
                                         └─────────────────────────────────────────┘
                         
+
 
 ## 🛠️ Technologies Used
 
