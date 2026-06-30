@@ -95,6 +95,9 @@ Email notification
 
 <img width="1107" height="937" alt="image" src="https://github.com/user-attachments/assets/c7a125db-1c59-45bc-b5be-99f820c965ef" />
 
+## 🔄 Change Control Management Workflow
+<img width="1122" height="747" alt="image" src="https://github.com/user-attachments/assets/7e363638-110d-4f11-89ec-e2d5d59e3932" />
+
 ---
 <br>
 
