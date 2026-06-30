@@ -112,3 +112,13 @@ User Roles
 | Director | Final approvals |
 | Manager | Department approvals |
 | Office | Data entry & submissions |
+
+
+## Departments
+
+| Department |
+|------------|
+| QA |
+| Supply Chain |
+| Technical Service |
+| Sales |
