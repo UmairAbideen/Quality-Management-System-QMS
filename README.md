@@ -75,6 +75,27 @@ Electronic signature
 Email notification
 
 
-**Business Workflows**
+## Business Workflows
 
+Complaint Raised
+
+        ↓
+
+QA Review
+
+        ↓
+
+Investigation
+
+        ↓
+
+Corrective Action
+
+        ↓
+
+Director Approval
+
+        ↓
+
+Complaint Closed
 
