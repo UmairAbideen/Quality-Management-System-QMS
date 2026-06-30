@@ -99,30 +99,29 @@ Director Approval
 
 Complaint Closed
 
-
-
-User Roles
-
+---
 
 ## User Roles
 
 | Role | Responsibilities |
 |------|------------------|
-| Admin / QA | Complete system administration |
+| Admin / QA | Complete system administration & QA Approvals |
 | Director | Final approvals |
 | Manager | Department approvals |
 | Office | Data entry & submissions |
 
+---
+
 
 ## Departments
 
-| Department |
 |------------|
 | QA |
 | Supply Chain |
 | Technical Service |
 | Sales |
 
+---
 
 ## ✨ Functionalities
 
@@ -135,12 +134,11 @@ User Roles
 ### 📄 Document Management
 -  PDF Upload
 -  PDF Download
--  Version Control
 -  Document Search
 
 ### 📊 Reporting & Analytics
 -  Dashboard
--  Charts & Analytics
+-  Charts & Metrics
 -  Excel Export
 -  PDF Reports
 
@@ -180,7 +178,7 @@ User Roles
                                         ┌─────────────────────────────────────────┐
                                         │        APPLICATION LAYER (Laravel 10)   │
                                         │                                         │
-                                        │  • Authentication                       │
+                                        │  • Authentication & (RBAC)              │
                                         │  • SOP Modules                          │
                                         │  • Workflow / Approval                  │
                                         │  • CAPA / Audit / Complaint System      │
