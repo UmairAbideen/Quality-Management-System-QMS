@@ -59,7 +59,7 @@ Deviation Management
 Management Review Meeting	
 Document Control
 
-## MODULES EXPLANATION
+## Modules Explanation
 
 ## Complaint Handling
 Forms
