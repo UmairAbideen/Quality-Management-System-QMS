@@ -204,7 +204,6 @@ Complaint Closed
                                         │  DOMPDF (PDF Generation)                │
                                         └─────────────────────────────────────────┘
 
-<br>
 ---
 <br>
 
