@@ -158,3 +158,38 @@ User Roles
 -  Excel Import & Export
 -  Responsive User Interface
 -  Production Deployment
+
+
+## Add Architecture
+
+Something like
+
+Users
+
+↓
+
+Authentication
+
+↓
+
+Role Management
+
+↓
+
+Modules
+
+↓
+
+Database
+
+↓
+
+Reports
+
+↓
+
+PDF / Excel
+
+↓
+
+Email
