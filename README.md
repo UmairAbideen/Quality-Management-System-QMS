@@ -165,44 +165,46 @@ User Roles
 ## 🏗️ System Architecture
 
                                                 ```
-                                                                 ┌────────────────────────────┐
-                                                                 │        USERS               │
-                                                                 │ QA | Manager | Director    │
-                                                                 │ Office | Supply Chain      │
-                                                                 └────────────┬───────────────┘
-                                                                              │
-                                                                              ▼
+                                                               ┌────────────────────────────┐
+                                                               │        USERS               │
+                                                               │    QA | Manager| Director  │
+                                                               │          Officer           |
+                                                               └─────────────┬──────────────┘
+                                                                             │
+                                                                             ▼
                                                         ┌─────────────────────────────────────────┐
-                                                        │         PRESENTATION LAYER              │
-                                                        │  Web UI (Dashboard, Forms, Reports)     │
-                                                        └────────────┬────────────────────────────┘
-                                                                     │
-                                                                     ▼
+                                                        │            PRESENTATION LAYER           │
+                                                        │    Web UI (Dashboard, Forms, Reports)   │
+                                                        └────────────────────┬────────────────────┘
+                                                                             │
+                                                                             ▼
                                                         ┌─────────────────────────────────────────┐
                                                         │        APPLICATION LAYER (Laravel 10)   │
                                                         │                                         │
-                                                        │  • Authentication & RBAC                │
+                                                        │  • Authentication                       │
                                                         │  • SOP Modules                          │
-                                                        │  • Workflow / Approval Engine           │
+                                                        │  • Workflow / Approval                  │
                                                         │  • CAPA / Audit / Complaint System      │
                                                         │  • Document Control System              │
                                                         │  • Notifications (Email)                │
                                                         │  • Reporting (PDF / Excel / Charts)     │
-                                                        └────────────┬────────────────────────────┘
-                                                                     │
-                                                        ┌────────────┼────────────────────────────┐
-                                                        ▼            ▼                            ▼
-                                                ┌────────────┐ ┌──────────────┐        ┌──────────────────┐
-                                                │ MySQL DB   │ │ File Storage │        │ Audit Logs       │
-                                                │ (Records)  │ │ (PDFs/SOPs)  │        │ Version History  │
-                                                └────────────┘ └──────────────┘        └──────────────────┘
-                                                                     │
-                                                                     ▼
+                                                        └────────────────────┬────────────────────┘
+                                                                             │
+                                                                             ▼
+                                                        ┌─────────────────────────────────────────┐
+                                                        ▼                                         ▼
+                                                 ┌────────────┐                            ┌──────────────┐     
+                                                 │ MySQL DB   │                            │ File Storage │     
+                                                 │ (Records)  │                            │ (PDFs/SOPs)  │     
+                                                 └────────────┘                            └──────────────┘                                                                                  │
+                                                       └─────────────────────┬────────────────────┘
+                                                                             │
+                                                                             ▼
                                                         ┌─────────────────────────────────────────┐
                                                         │        EXTERNAL SERVICES                │
-                                                        │  SMTP Email Server                     │
-                                                        │  Laravel Excel (Import/Export)         │
-                                                        │  DOMPDF (PDF Generation)               │
+                                                        │  SMTP Email Server                      │
+                                                        │  Laravel Excel (Import/Export)          │
+                                                        │  DOMPDF (PDF Generation)                │
                                                         └─────────────────────────────────────────┘
                                                 ```
 
