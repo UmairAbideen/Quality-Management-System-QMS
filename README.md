@@ -6,6 +6,12 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 
 <br><br>
 
+## Disclaimer
+
+This repository showcases the architecture, modules, screenshots, and technical implementation of a Quality Management System developed by me. Source code is intentionally kept private to protect confidential business logic and client information. All screenshots have been sanitized to remove sensitive organizational data.
+
+<br>
+
 ## Features
 
 ### KPI Dashboard
