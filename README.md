@@ -490,3 +490,20 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 ### Version Control
 - Git
 - GitHub
+
+<br>
+
+## Customization Available
+
+The system can be customized for different industries, departments, workflows, approval hierarchies, and document requirements based on organizational needs.
+
+<br>
+
+## Developed by
+
+- Muhammad Umair
+- Laravel Developer
+- ERP Systems
+- Business Automation
+- Workflow Applications
+- Available for freelance and custom enterprise software development.
