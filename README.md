@@ -357,7 +357,7 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 ## 🏢 Departments
 
 | Department |
-||
+|____________|
 | QA |
 | Supply Chain |
 | Technical Service |
@@ -372,6 +372,7 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 -  Authorization
 -  Role-based Access Control (RBAC)
 -  Electronic Signature
+-  Form Validation
 
 ### 📄 Document Management
 -  PDF Upload
