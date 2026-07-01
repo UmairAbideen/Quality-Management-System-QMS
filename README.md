@@ -82,16 +82,15 @@ PDF Report
 
 ### CAPA (Corrective & Preventive Action)
 
-<img width="1241" height="1754" alt="Blur_14a- Capa" src="https://github.com/user-attachments/assets/cc1ad936-9652-4c48-ad62-e30179e3b726" />
+<img width="1241" height="1658" alt="Blur_14a- Capa" src="https://github.com/user-attachments/assets/31651ddc-1ad8-4d53-a651-63d789e1b60c" />
 
-<img width="1241" height="1754" alt="Blur_14b- Capa" src="https://github.com/user-attachments/assets/d819a14a-419e-4750-81c2-9dc79789ed5a" />
-
+<img width="1241" height="962" alt="Blur_14b- Capa" src="https://github.com/user-attachments/assets/8b8b5c33-9a9b-4ae4-b6c7-d74eccc6c063" />
 
 ### Employee Training  
 
 <img width="1667" height="1048" alt="Blur_15- Training" src="https://github.com/user-attachments/assets/fdb54f36-e7ad-4308-bc93-417d7fe1434c" />
 
-<img width="540" height="767" alt="Blur_16- Training Attendance" src="https://github.com/user-attachments/assets/2b6f7e5d-6392-42f3-9719-a391b768b582" />
+<img width="540" height="467" alt="Blur_16- Training Attendance" src="https://github.com/user-attachments/assets/a3980098-c3e1-472a-b7b5-cdde2f609151" />
 
 ### Document Control  
 
