@@ -402,6 +402,20 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 
 <br>
 
+## Deployment
+
+• Shared Hosting Deployment
+
+• Production Environment Configuration
+
+• Environment Variables
+
+• Database Migration
+
+• Storage Linking
+
+<br>
+
 ## 🏗️ System Architecture
 
                                 
