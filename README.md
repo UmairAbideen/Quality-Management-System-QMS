@@ -110,12 +110,11 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 
 **Quality at a glance**
 
-Provides management with a centralized overview of quality activities, including complaints, CAPA, audits, recalls, training status, and risk metrics. Interactive charts help monitor KPIs and identify pending actions requiring attention.
+Provides management with a centralized overview of quality activities, including complaints, CAPA, training status, and risk metrics. Interactive charts help monitor KPIs.
 
 ### Highlights
 - KPI Dashboard
 - Interactive Charts
-- Pending Approvals
 - Quality Metrics
 
 ---
@@ -139,7 +138,7 @@ Manages system users across multiple departments with role-based permissions. Su
 
 **Controlled document repository**
 
-Maintains Quality Policies and SOPs in a centralized repository with department-wise access, ensuring controlled distribution of approved documents.
+Maintains Quality Policies and SOPs in a centralized/department-wise repository with department-wise access, ensuring controlled distribution of approved documents.
 
 ### Highlights
 - Policy Management
@@ -153,14 +152,12 @@ Maintains Quality Policies and SOPs in a centralized repository with department-
 
 **End-to-end complaint lifecycle**
 
-Records customer complaints, tracks investigations, and maintains a complete complaint history from submission through management approval and closure.
+Records customer complaints, tracks investigations, and maintains a complaint history.
 
 ### Highlights
 - Complaint Registration
 - Complaint Tracking
-- Investigation Workflow
-- Management Approval
-
+  
 ---
 
 ## 💬 Customer Feedback
@@ -180,7 +177,7 @@ Collects customer feedback, maintains historical records, and generates Excel re
 
 **Identify and control risks**
 
-Evaluates operational and product-related risks, assigns risk levels, and routes assessments for management approval while maintaining a complete risk register.
+Evaluates operational and product-related risks, assigns risk levels, and assessments for management approval while maintaining a complete risk register.
 
 ### Highlights
 - Risk Evaluation
@@ -213,7 +210,6 @@ Schedules internal audits, records findings, and documents audit reports to ensu
 ### Highlights
 - Audit Scheduling
 - Audit Reporting
-- Findings Management
 
 ---
 
@@ -278,13 +274,12 @@ Tracks corrective and preventive actions from identification through implementat
 
 **Workforce competency management**
 
-Plans employee training, records attendance with electronic signatures, gathers participant feedback, and manages new employee orientation.
+Plans department-wise employee training, records attendance with electronic signatures and manages new employee orientation.
 
 ### Highlights
 - Training Plans
 - Attendance Tracking
 - Electronic Signatures
-- Feedback Collection
 - New Employee Orientation
 
 ---
