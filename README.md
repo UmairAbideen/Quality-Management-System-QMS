@@ -14,23 +14,25 @@ This repository showcases the architecture, modules, screenshots, and technical 
 
 ## Key Highlights
 
-✔ 14+ Quality Management Modules
+✔ 14 Quality Management Modules
 
-✔ 30+ Business Forms
+✔ 23 Business Forms
+
+✔ 21 Reports
+
+✔ 23 Log Files
 
 ✔ 4 User Roles
 
 ✔ 4 Departments
 
-✔ 15+ Reports & Logs
+✔ Multi-Level Approval System
 
 ✔ Electronic Signature Workflow
 
-✔ Multi-Level Approval System
-
 ✔ PDF & Excel Automation
 
-✔ Email Notification System
+✔ Email Notification
 
 ✔ Responsive Web Application
 
