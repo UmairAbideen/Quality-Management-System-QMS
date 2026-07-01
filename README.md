@@ -4,6 +4,8 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 
 <img width="1787" height="762" alt="19- Log" src="https://github.com/user-attachments/assets/64020e9a-19d6-4962-9cf3-20606f75607c" />
 
+<br><br>
+
 ## Features
 
 ### KPI Dashboard
