@@ -92,7 +92,7 @@ PDF Report
 
 <img width="540" height="767" alt="Blur_16- Training Attendance" src="https://github.com/user-attachments/assets/2b6f7e5d-6392-42f3-9719-a391b768b582" />
 
-Document Control  
+### Document Control  
 
 <img width="1912" height="792" alt="Blur_17- Master Index" src="https://github.com/user-attachments/assets/1e85d80a-a599-41eb-97ea-e054dbcf25d8" />
 
