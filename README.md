@@ -136,7 +136,7 @@ This repository showcases the architecture, modules, screenshots, and technical 
 14. Management Review Meeting  
 
 
-<br>
+<br><br>
 
 ## Modules Explanation
 
@@ -340,7 +340,7 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 <img width="710" height="923" alt="Change Control Management" src="https://github.com/user-attachments/assets/d43eb6e9-a4b1-49ef-96b5-2792d6f6e00f" />
 
 
-<br>
+<br><br>
 
 ## 👤 User Roles
 
@@ -503,7 +503,7 @@ The system can be customized for different industries, departments, workflows, a
 
 ## 👨‍💻 About the Developer
 
-- Muhammad Umair
+- Developed By: Muhammad Umair
 - Laravel Developer
 - ERP Systems
 - Business Automation
