@@ -339,7 +339,10 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 <img width="718" height="924" alt="Deviation" src="https://github.com/user-attachments/assets/61f38983-afcc-4aeb-a9cf-1943a7b7ea0b" />
 <br><br><br>
 <img width="710" height="923" alt="Change Control Management" src="https://github.com/user-attachments/assets/d43eb6e9-a4b1-49ef-96b5-2792d6f6e00f" />
-
+<br><br><br>
+<img width="1023" height="1537" alt="CAPA" src="https://github.com/user-attachments/assets/31c796f9-3a1d-4fde-8b20-c27fc107626f" />
+<br><br><br>
+<img width="1122" height="1402" alt="Risk Assessment" src="https://github.com/user-attachments/assets/87ca783c-9eee-474d-aa4f-0666ea1c3a3d" />
 
 <br><br>
 
